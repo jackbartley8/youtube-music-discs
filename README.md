@@ -1,2 +1,9 @@
-# youtube-music-discs
-A minecraft mod that allows the user to enter in custom youtube video links that will upload to a music disc
+# Fabric Example Mod
+
+## Setup
+
+For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+
+## License
+
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
